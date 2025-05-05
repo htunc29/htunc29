@@ -62,11 +62,13 @@ Merhaba! Ben Hüseyin, tutkulu bir yazılım geliştiricisiyim. Kod yazarken yan
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
 </div>
 
-Aklıma gelen yenilikçi fikirleri kodlara döküyorum. En iyi öğrenme yöntemi uygulayarak öğrenmektir! İşte bazı projelerim:
+Fikir üret, kodla, yayınla. Benim öğrenme stilim: doğrudan üretim!
 
-- 🔥 [Proje 1](link) - Kısa açıklama
-- 🚀 [Proje 2](link) - Kısa açıklama
-- 💡 [Proje 3](link) - Kısa açıklama
+🔥 Vekaletim – Yapay zeka destekli vekalet hazırlama aracı. Hukuki belgeleri otomatik olarak oluşturur ve emsal kararlar üzerinden önerilerde bulunur.
+
+🚀 DatalinguaLab – Eğitim ve dil öğrenimi için AI destekli test üretimi ve analiz platformu. Kurumlar için özelleştirilebilir anketler ve AI tabanlı performans analizleri sunar.
+
+💡 Gech AI – Kullanıcıların yazdığı metinlerden AI ile görsel üreten platform. Next.js + MongoDB ile geliştirildi ve kullanıcılar görsellerini favorileyip kişisel galerilerinde saklayabiliyor.
 
 ## 📫 İletişim
 
