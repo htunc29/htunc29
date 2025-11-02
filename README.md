@@ -1,95 +1,268 @@
-# <div align="center">👋 Merhaba, Ben Hüseyin Tunç!</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A67E&center=true&width=435&lines=Full-Stack+Developer;.NET+%7C+Python+%7C+Next.js+%7C+MongoDB" alt="Typing SVG" />
+  
+# 🌟 Merhaba, Ben Hüseyin Tunç!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;.NET+%7C+Python+%7C+Next.js+Uzman%C4%B1;Problem+%C3%87%C3%B6zmeyi+Seviyorum+%F0%9F%92%A1;Yapay+Zeka+ile+%C3%87%C3%B6z%C3%BCmler+%C3%9Cretiyorum+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+
 </div>
 
-## 🚀 Hakkımda
+---
+
+## 💫 Hakkımda
+
+```typescript
+const huseyin = {
+    location: "Gümüşhane, Türkiye 🇹🇷",
+    role: "Full-Stack Developer",
+    passion: ["☕ Kahve", "💻 Clean Code", "🚀 Innovation"],
+    currentFocus: "DGS + Software Excellence",
+    philosophy: "Fikir üret, kodla, yayınla. Benim öğrenme stilim: doğrudan üretim!",
+    lifeGoal: "Full-stack alanında uzmanlaşmak ve dünyayı değiştirecek çözümler üretmek"
+};
+```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
+
+### 🎯 Şu An Ne Yapıyorum?
+
+🔭 **DGS**'ye hazırlanırken yapay zeka destekli projeler geliştiriyorum  
+🌱 Her gün yeni teknolojiler öğrenip **gerçek dünya problemlerine** çözümler üretiyorum  
+💡 **AI-powered** uygulamalar ile kullanıcı deneyimini geliştiriyorum  
+🎨 Modern ve kullanıcı dostu **arayüzler** tasarlıyorum  
+
 </div>
 
-Merhaba! Ben Hüseyin, tutkulu bir yazılım geliştiricisiyim. Kod yazarken yanımda mutlaka bir fincan ☕ kahve bulunur!
+---
 
-- 🔭 **.NET, Python, Next.js ve MongoDB** teknolojileriyle profesyonel projeler geliştiriyorum
-- 📚 **DGS**'ye hazırlanırken yazılım becerilerimi sürekli geliştiriyorum
-- 🎯 **Hedefim:** Full-stack alanında uzmanlaşmak ve yenilikçi çözümler üretmek
-- 🌱 Her gün yeni teknolojiler öğrenmeye ve kendimi geliştirmeye devam ediyorum
-- 💡 Problem çözmeyi ve yeni fikirler üretmeyi seviyorum
-
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Teknoloji Arsenalim
 
 <div align="center">
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### 💻 Backend & Core
 
-  <h3>Veritabanı</h3>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+![.NET](https://img.shields.io/badge/-.NET_8.0-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-  <h3>Mobil</h3>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+### 🎨 Frontend & UI/UX
 
-  <h3>Araçlar & Diğer</h3>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+![Next.js](https://img.shields.io/badge/-Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Veritabanı & Storage
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱 Mobil Geliştirme
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### 🔧 Araçlar & DevOps
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-## 📊 GitHub İstatistiklerim
+---
+
+## 🚀 Öne Çıkan Projelerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htunc29&show_icons=true&theme=tokyonight&hide_border=true" alt="Hüseyin'in GitHub Stats'ı" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htunc29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunc29&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Projects Animation"/>
 </div>
 
-## 🚀 Projelerim
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Vekaletim
+**Yapay Zeka Destekli Hukuki Belge Hazırlayıcı**
+
+- 🤖 AI tabanlı vekalet belgesi oluşturma
+- ⚖️ Emsal karar analizi ve öneriler
+- 📄 Otomatik belge formatlaması
+- 🎯 Kullanıcı dostu arayüz
+
+**Tech Stack:**  
+`.NET` `Python` `OpenAI` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 🚀 DatalinguaLab
+**AI Destekli Eğitim & Analiz Platformu**
+
+- 📊 Akıllı test ve anket üretimi
+- 🧠 AI tabanlı performans analizi
+- 📈 Detaylı raporlama sistemi
+- 🎓 Kurumsal çözümler
+
+**Tech Stack:**  
+`Next.js` `Python` `MongoDB` `AI/ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 Gech AI
+**AI Görsel Üretim Platformu**
+
+- 🎨 Metinden görsele AI dönüşümü
+- ⭐ Favori galerisi sistemi
+- 🖼️ Yüksek kaliteli görsel çıktıları
+- 💾 Kullanıcı koleksiyonları
+
+**Tech Stack:**  
+`Next.js` `MongoDB` `Stability AI` `Tailwind`
+
+</td>
+<td width="50%">
+
+### 🌟 Ve Daha Fazlası...
+**Sürekli Gelişen Portfolio**
+
+- 🔨 Yeni fikirler üzerinde çalışıyorum
+- 🚀 Open-source katkılar
+- 📚 Deneysel projeler
+- 💻 Side projects
+
+**Yakında:**  
+`E-commerce` `SaaS` `API Services`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub İstatistiklerim & Aktiviteler
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=htunc29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=htunc29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunc29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=htunc29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+
 </div>
 
-Fikir üret, kodla, yayınla. Benim öğrenme stilim: doğrudan üretim!
+---
 
-🔥 Vekaletim – Yapay zeka destekli vekalet hazırlama aracı. Hukuki belgeleri otomatik olarak oluşturur ve emsal kararlar üzerinden önerilerde bulunur.
-
-🚀 DatalinguaLab – Eğitim ve dil öğrenimi için AI destekli test üretimi ve analiz platformu. Kurumlar için özelleştirilebilir anketler ve AI tabanlı performans analizleri sunar.
-
-💡 Gech AI – Kullanıcıların yazdığı metinlerden AI ile görsel üreten platform. Next.js + MongoDB ile geliştirildi ve kullanıcılar görsellerini favorileyip kişisel galerilerinde saklayabiliyor.
-
-## 📫 İletişim
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="mailto:huseyint428@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tunchuseyin29">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tuncyazilim.com.tr">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=htunc29&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
+---
+
+## 💼 Profesyonel Beceriler
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=htunc29&style=flat-square&color=00A67E" alt="Profil ziyaretçileri"/>
+
+```mermaid
+mindmap
+  root((Hüseyin Tunç))
+    Full-Stack Development
+      Backend
+        .NET Core/ASP.NET
+        Python/FastAPI
+        RESTful APIs
+      Frontend
+        Next.js/React
+        TypeScript
+        Tailwind CSS
+    AI & Innovation
+      OpenAI Integration
+      LangChain
+      Prompt Engineering
+      AI-Powered Solutions
+    Database
+      MongoDB
+      MSSQL
+      PostgreSQL
+    DevOps & Tools
+      Git/GitHub
+      Docker
+      CI/CD
+```
+
+</div>
+
+---
+
+## 📫 Benimle İletişime Geçin
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-huseyint428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyint428@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tunchuseyin29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tunchuseyin29)
+[![Website](https://img.shields.io/badge/Website-tuncyazilim.com.tr-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuncyazilim.com.tr)
+[![GitHub](https://img.shields.io/badge/GitHub-htunc29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htunc29)
+
 </div>
 
 ---
 
 <div align="center">
-  <em>☕ Kahve içip kod yazalım!</em>
+
+### 💭 Favori Sözüm
+
+> *"Kod yazmak bir sanattır, problem çözmek ise bu sanatın en güzel eseridir."*
+
+### ☕ Bana Bir Kahve Ismarla
+
+Projelerimi beğendiysen ve desteklemek istersen:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huseyintunc)
+
+
+<a href="https://www.buymeacoffee.com/huseyintunc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60"></a>
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=htunc29&style=for-the-badge&color=00D9FF)
+![GitHub Followers](https://img.shields.io/github/followers/htunc29?style=for-the-badge&color=00D9FF&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/htunc29?style=for-the-badge&color=00D9FF&logo=github)
+
+### 🌟 "Her satır kod, bir adım daha ileri!"
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+**⭐ Projelerimi beğendiysen yıldızlamayı unutma!**
+
+*Son Güncelleme: 2025*
+
 </div>
