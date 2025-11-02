@@ -223,7 +223,6 @@ mindmap
 
 [![Email](https://img.shields.io/badge/Email-huseyint428@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyint428@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tunchuseyin29-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tunchuseyin29)
-[![Website](https://img.shields.io/badge/Website-tuncyazilim.com.tr-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuncyazilim.com.tr)
 [![GitHub](https://img.shields.io/badge/GitHub-htunc29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htunc29)
 
 </div>
@@ -266,3 +265,4 @@ Projelerimi beğendiysen ve desteklemek istersen:
 *Son Güncelleme: 2025*
 
 </div>
+
