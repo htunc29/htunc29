@@ -2,9 +2,9 @@
   
 # 🌟 Merhaba, Ben Hüseyin Tunç!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;.NET+%7C+Python+%7C+Next.js+Uzman%C4%B1;Problem+%C3%87%C3%B6zmeyi+Seviyorum+%F0%9F%92%A1;Yapay+Zeka+ile+%C3%87%C3%B6z%C3%BCmler+%C3%9Cretiyorum+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;.NET+%7C+Python+%7C+Go+%7C+Django;React+19+%7C+Next.js+16+%7C+React+Native;Problem+%C3%87%C3%B6zmeyi+Seviyorum+%F0%9F%92%A1;Yapay+Zeka+ile+%C3%87%C3%B6z%C3%BCmler+%C3%9Cretiyorum+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,go,nextjs,react,typescript,tailwind,mongodb,postgres,docker,git" alt="Tech Stack" />
 
 </div>
 
@@ -36,6 +36,29 @@ const huseyin = {
 
 ---
 
+## 🎯 Yetkinlik Seviyeleri
+
+<div align="center">
+
+**Backend Development**
+![Backend](https://img.shields.io/badge/Backend-90%25-00D9FF?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Frontend Development**
+![Frontend](https://img.shields.io/badge/Frontend-85%25-00D9FF?style=for-the-badge&logo=react&logoColor=white)
+
+**AI/ML Integration**
+![AI/ML](https://img.shields.io/badge/AI%2FML-80%25-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+
+**Mobile Development**
+![Mobile](https://img.shields.io/badge/Mobile-75%25-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
+
+**DevOps & Cloud**
+![DevOps](https://img.shields.io/badge/DevOps-70%25-00D9FF?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
 ## 🛠️ Teknoloji Arsenalim
 
 <div align="center">
@@ -45,13 +68,16 @@ const huseyin = {
 ![.NET](https://img.shields.io/badge/-.NET_8.0-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🎨 Frontend & UI/UX
 
-![Next.js](https://img.shields.io/badge/-Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,6 +93,7 @@ const huseyin = {
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🤖 AI & Machine Learning
 
@@ -82,6 +109,13 @@ const huseyin = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🏗️ Mimari & Yaklaşımlar
+
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -192,10 +226,12 @@ mindmap
     Full-Stack Development
       Backend
         .NET Core/ASP.NET
-        Python/FastAPI
+        Python/Django/FastAPI
+        Golang/Go Fiber
         RESTful APIs
       Frontend
-        Next.js/React
+        Next.js 16/React 19
+        React Native
         TypeScript
         Tailwind CSS
     AI & Innovation
