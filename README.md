@@ -20,7 +20,7 @@ Yapay zeka destekli çözümler geliştiren bir Full-Stack Developer'ım. **"Fik
 
 - 🎯 **Şu an:** DGS'ye hazırlanırken TÜBİTAK destekli projeler geliştiriyorum
 - 🔬 **Aktif Proje:** [DatalinguaLab](https://github.com/htunc29) - Türkçe ses verisi toplama ve AI analiz platformu
-- 🏷️ **Marka:** [Tunç Dijital](https://github.com/htunc29) altında freelance projeler
+- 🏷️ **Marka:** [Tunç Yazılım Sistemleri](https://tuncyazilimsistemleri.com/) altında freelance projeler
 
 ---
 
@@ -90,3 +90,4 @@ Her gün yeni bir şey öğreniyor, her hafta yeni bir proje yayınlıyorum. Hed
 **⭐ Projelerimi beğendiysen yıldızlamayı unutma!**
 
 </div>
+
