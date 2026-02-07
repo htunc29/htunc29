@@ -1,93 +1,140 @@
 <div align="center">
 
-# Hüseyin Tunç
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hüseyin%20Tunç&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Solutions%20Engineer&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
-**Full-Stack Developer** · Gümüşhane, Türkiye 🇹🇷
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+production+systems;.NET+Core+%7C+Next.js+%7C+Python+%7C+Go;From+idea+to+deployment+%E2%80%94+fast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions;.NET+%7C+Python+%7C+Next.js+%7C+Go;Turning+ideas+into+production)](https://git.io/typing-svg)
+<br/>
 
-<a href="mailto:huseyint428@gmail.com"><img src="https://img.shields.io/badge/Email-huseyint428@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tunchuseyin29"><img src="https://img.shields.io/badge/LinkedIn-tunchuseyin29-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/htunc29"><img src="https://img.shields.io/badge/GitHub-htunc29-181717?style=flat&logo=github&logoColor=white" /></a>
+<a href="mailto:huseyint428@gmail.com"><img src="https://img.shields.io/badge/Gmail-huseyint428-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/tunchuseyin29"><img src="https://img.shields.io/badge/LinkedIn-tunchuseyin29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/htunc29"><img src="https://img.shields.io/badge/GitHub-htunc29-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://tuncyazilimsistemleri.com"><img src="https://img.shields.io/badge/Portfolio-tuncyazilimsistemleri.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-### 👋 Hakkımda
+## 🧑‍💻 Hakkımda
 
-Yapay zeka destekli çözümler geliştiren bir Full-Stack Developer'ım. **"Fikir üret, kodla, yayınla"** felsefesiyle çalışıyor, gerçek dünya problemlerine pratik çözümler üretiyorum.
+Yapay zeka destekli çözümler geliştiren bir **Full-Stack Developer**'ım. **"Fikir üret, kodla, yayınla"** felsefesiyle çalışıyor, ölçeklenebilir ve production-ready sistemler inşa ediyorum.
 
-- 🎯 **Şu an:** DGS'ye hazırlanırken TÜBİTAK destekli projeler geliştiriyorum
-- 🔬 **Aktif Proje:** [DatalinguaLab](https://github.com/htunc29) - Türkçe ses verisi toplama ve AI analiz platformu
-- 🏷️ **Marka:** [Tunç Yazılım Sistemleri](https://tuncyazilimsistemleri.com/) altında freelance projeler
+- 🎓 &nbsp;Gümüşhane Üniversitesi Bilgisayar Programcılığı — **Bölüm Birincisi**
+- 🔬 &nbsp;**Aktif Proje:** [DatalinguaLab](https://github.com/htunc29) — TÜBİTAK 2209 destekli Türkçe ses verisi toplama ve AI analiz platformu
+- 🏷️ &nbsp;**Marka:** [Tunç Yazılım Sistemleri](https://tuncyazilimsistemleri.com/) altında freelance çözümler
+- 🌍 &nbsp;**Hedef:** Uluslararası arenada deneyim kazanmak ve global ölçekte projeler geliştirmek
 
----
+<br/>
 
-### 🛠️ Tech Stack
-
-**Backend**
-```
-C# / .NET 8 / ASP.NET Core    Python / Django / FastAPI    Go / Fiber
-```
-
-**Frontend**
-```
-Next.js 15 / React 18    TypeScript    Tailwind CSS    Flutter / Dart
-```
-
-**Database & Tools**
-```
-MongoDB    PostgreSQL    MSSQL    Docker    Git
-```
-
-**AI/ML**
-```
-OpenAI API    LangChain    Prompt Engineering
-```
-
----
-
-### 🚀 Öne Çıkan Projeler
-
-| Proje | Açıklama | Tech |
-|-------|----------|------|
-| **DatalinguaLab** | TÜBİTAK 2209 destekli Türkçe ses verisi toplama ve AI analiz platformu | Next.js, C#, MongoDB |
-| **Vekaletim** | AI destekli hukuki belge hazırlayıcı, emsal karar analizi | .NET, Python, OpenAI |
-| **Gech AI** | Text-to-image AI görsel üretim platformu | Next.js, Stability AI, MongoDB |
-
----
-
-### 📊 GitHub Stats
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=htunc29&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunc29&layout=compact&theme=graywhite&hide_border=true&hide_title=true&langs_count=6" />
+| Katman | Teknolojiler |
+|:---:|:---|
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Veritabanı** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **DevOps & Araçlar** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Stability AI](https://img.shields.io/badge/Stability_AI-8B5CF6?style=flat-square&logoColor=white) |
 
 </div>
+
+<br/>
+
+## 🚀 Öne Çıkan Projeler
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧬 DatalinguaLab
+**TÜBİTAK 2209 Destekli**
+
+Türkçe ses verisi toplama ve AI analiz platformu. Doğal dil işleme modelleri için yüksek kaliteli Türkçe veri seti oluşturma altyapısı.
+
+`Next.js` `ASP.NET Core` `MongoDB` `AI/ML`
+
+</td>
+<td width="50%">
+
+### ⚖️ Vekaletim
+**AI-Powered Legal Tech**
+
+Yapay zeka destekli hukuki belge hazırlayıcı. Emsal karar analizi ve otomatik belge oluşturma sistemi.
+
+`.NET` `Python` `OpenAI API` `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Gech AI
+**Text-to-Image Platform**
+
+Kullanıcı dostu arayüz ile text-to-image AI görsel üretim platformu. Stability AI entegrasyonu ile yüksek kaliteli görsel oluşturma.
+
+`Next.js` `Stability AI` `MongoDB` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+### 🔐 Daha fazlası...
+**Sürekli Gelişim**
+
+Her hafta yeni projeler ve çözümler üretiyorum. Tüm projelerime [GitHub profilimden](https://github.com/htunc29?tab=repositories) ulaşabilirsiniz.
+
+`Full-Stack` `AI/ML` `DevOps` `Mobile`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=htunc29&theme=graywhite&hide_border=true" height="160" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=htunc29&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=6366F1&icon_color=6366F1&ring_color=6366F1&bg_color=00000000" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunc29&layout=compact&theme=default&hide_border=true&title_color=6366F1&bg_color=00000000&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=htunc29&theme=default&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=htunc29&theme=minimal&hide_border=true&color=6366F1&line=6366F1&point=8B5CF6&area=true&area_color=6366F1" width="95%" />
 
 </div>
 
----
+<br/>
 
-### 💡 Felsefem
+## 💡 Felsefem
+
+<div align="center">
 
 > *"Kod yazmak bir sanattır, problem çözmek ise bu sanatın en güzel eseridir."*
 
-Her gün yeni bir şey öğreniyor, her hafta yeni bir proje yayınlıyorum. Hedefim full-stack alanında uzmanlaşmak ve dünyayı değiştirecek çözümler üretmek.
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=htunc29&style=flat&color=6366F1&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=htunc29&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
-**⭐ Projelerimi beğendiysen yıldızlamayı unutma!**
+<br/><br/>
+
+**Projelerimi beğendiysen ⭐ yıldızlamayı unutma!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=footer" width="100%" />
 
 </div>
-
