@@ -7,7 +7,7 @@
 <a href="mailto:huseyint428@gmail.com"><img src="https://img.shields.io/badge/Email-huseyint428@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tunchuseyin29"><img src="https://img.shields.io/badge/LinkedIn-tunchuseyin29-1a1a2e?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://github.com/htunc29"><img src="https://img.shields.io/badge/GitHub-htunc29-1a1a2e?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://tuncdijital.com"><img src="https://img.shields.io/badge/Web-tuncdijital.com-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://tuncyazilimsistemleri.com"><img src="https://img.shields.io/badge/Web-tuncyazilimsistemleri.com-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
@@ -71,3 +71,4 @@ I'm interested in working on projects involving **enterprise-grade backend syste
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=3&section=footer" width="100%" />
+
